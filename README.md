@@ -154,7 +154,7 @@ Vision-language model system for intelligent satellite imagery interpretation (I
 
 ---
 
-### 🏥 Thanu Medicals
+### 🏥 Pharmacy Website
 Professional pharmacy information platform with optimized user experience.
 
 **Technology Stack:**
