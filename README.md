@@ -172,7 +172,7 @@ Professional pharmacy information platform with optimized user experience.
 
 **Velammal Engineering College** — 2023 to 2027
 - B.E in Electronics & Communication Engineering
-- CGPA: 8.49
+- CGPA: 8.42
 
 **Bishop Remigius School (CBSE)** — 2022 to 2023
 - Higher Secondary Certificate
