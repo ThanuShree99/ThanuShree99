@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-I'm a final-year Electronics & Communication Engineering student at **Velammal Engineering College** (CGPA: 8.49) with a passion for embedded systems, real-time operating systems, and aerospace technology.
+I'm a final-year Electronics & Communication Engineering student at **Velammal Engineering College** (CGPA: 8.42) with a passion for embedded systems, real-time operating systems, and aerospace technology.
 
 **What drives me:**
 - 🔧 Embedded firmware development & real-time systems
