@@ -264,7 +264,6 @@ Professional pharmacy information platform with optimized user experience.
 
 - **GitHub Repositories:** Open-source embedded systems projects
 - **Hackathon Participation:** 5+ major competitions
-- **Awards Won:** 1 National, 2 Regional
 - **Professional Internships:** 3 (Aerospace, Propulsion, Industrial)
 - **Technical Papers:** 3 presentations at engineering colleges
 - **Languages:** English, Tamil
