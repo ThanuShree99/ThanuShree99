@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-I'm a final-year Electronics & Communication Engineering student at **Velammal Engineering College** (CGPA: 8.42) with a passion for embedded systems, real-time operating systems, and aerospace technology.
+I'm a final-year Electronics & Communication Engineering student at **Velammal Engineering College** (CGPA: 8.43) with a passion for embedded systems, real-time operating systems, and aerospace technology.
 
 **What drives me:**
 - 🔧 Embedded firmware development & real-time systems
@@ -89,7 +89,7 @@ Core Competencies:
 - **3rd Place** - Innovative Product Showcase at Velammal Engineering College
 
 ### 🎓 Academic Recognition
-- Consistent high CGPA (8.49)
+- Consistent high CGPA (8.43)
 - Active member of Institution's Innovation Council
 - Multiple technical paper presentations at national venues
 
@@ -172,7 +172,7 @@ Professional pharmacy information platform with optimized user experience.
 
 **Velammal Engineering College** — 2023 to 2027
 - B.E in Electronics & Communication Engineering
-- CGPA: 8.42
+- CGPA: 8.43
 
 **Bishop Remigius School (CBSE)** — 2022 to 2023
 - Higher Secondary Certificate
