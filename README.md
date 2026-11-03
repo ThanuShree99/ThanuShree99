@@ -21,23 +21,15 @@ I'm a final-year Electronics and Communication Engineering student at **Velammal
 <tr>
 <td width="60%" valign="top">
 
-- 🚀 **Open to Work:** Embedded Systems, Firmware Development & Aerospace Research Internships
-- 🌱 **Currently Learning:** Advanced RTOS, Embedded AI, CAN & AUTOSAR
-- 🎓 **Education:** B.E. ECE | Velammal Engineering College (CGPA 8.42)
+- 🚀 **Open to Work:** Embedded Systems, Firmware Development & Software Development
+- 🌱 **Currently Learning:** FreeRTOS, Embedded Software, ML
+- 🎓 **Education:** B.E. ECE | Velammal Engineering College (CGPA 8.43)
 - 📍 **Location:** Nagercoil, Tamil Nadu, India
 - ⚡ **Fun Fact:** I've worked on satellite payload firmware and had exposure to liquid rocket engine testing before graduating!
 
 [![Email](https://img.shields.io/badge/Let's%20Connect-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanushree.nagarajan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanushreen)
 
-</td>
-<td width="40%" align="center">
-
-<img src="assets/silhouette.png" alt="Developer silhouette in front of a glowing code screen" width="100%" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -69,36 +61,115 @@ I'm a final-year Electronics and Communication Engineering student at **Velammal
 
 ---
 
-## 🏗️ Things I've Been Building
 
-| Project | Description | Stack |
-|---|---|---|
-| **SatQuery** | Natural-language querying of satellite imagery (ISRO SIH 2026) | Python, FastAPI, React |
-| **Avionics Simulator** | Low-cost pilot training system using sensor fusion | ESP32, MPU6050 |
-| **Smart Pill Dispenser** | Automated medicine dispensing with RTC | Embedded C, Arduino |
-| **Pharmacy Website** | A responsive pharmacy information website | HTML, CSS |
+<!-- ================= THINGS I'VE BEEN BUILDING ================= -->
 
----
+<h2 align="center">🏗️ Things I've Been Building</h2>
 
-## 🏆 Achievements
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🛰️ SatQuery</h3>
+      <p>Natural-language querying of satellite imagery for ISRO SIH 2026.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-B8A1E3?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-F4A6C1?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-B8A1E3?style=flat-square&logo=react&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3>✈️ Avionics Simulator</h3>
+      <p>Low-cost pilot training system using sensor fusion.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ESP32-F4A6C1?style=flat-square&logo=espressif&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MPU6050-B8A1E3?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>💊 Smart Pill Dispenser</h3>
+      <p>Automated medicine dispensing with RTC-based scheduling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Embedded_C-B8A1E3?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Arduino-F4A6C1?style=flat-square&logo=arduino&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🌸 Pharmacy Website</h3>
+      <p>A responsive pharmacy information website.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-F4A6C1?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-B8A1E3?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-| Event | Award |
-|---|---|
-| Hackathon 360° 3.0 (KPR Institute) | 🥇 Best Innovators – Winner |
-| Velammal Hackathon 2025 | 🥈 2nd Place |
-| Shark Tank Pitch (MIT) | 🥉 3rd Place |
-| Paper Presentation (Velammal Institute) | 🥇 1st Place |
-| Paper Presentation (St. Joseph's) | 🥉 3rd Place |
-| Innovative Product Showcase (VEC) | 🥉 3rd Place |
+<br/>
+
+<!-- ================= ACHIEVEMENTS ================= -->
+
+<h2 align="center">🏆 Achievements & Recognition</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="60">🏅</td>
+    <td>
+      <b>Best Innovators – Winner</b><br/>
+      <sub>Hackathon 360° 3.0 · KPR Institute</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🥈</td>
+    <td>
+      <b>2nd Place</b><br/>
+      <sub>Velammal Hackathon 2025</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🥉</td>
+    <td>
+      <b>3rd Place</b><br/>
+      <sub>Shark Tank – Innovative Business Concept Pitch · MIT</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🥇</td>
+    <td>
+      <b>1st Place</b><br/>
+      <sub>Paper Presentation · Velammal Institute of Technology</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🥉</td>
+    <td>
+      <b>3rd Place</b><br/>
+      <sub>Paper Presentation · St. Joseph's</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🥉</td>
+    <td>
+      <b>3rd Place</b><br/>
+      <sub>Innovative Product Showcase · Velammal Engineering College</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 
 ---
 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/thanushreen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thanushree.nagarajan@gmail.com) 
+[![Email](https://img.shields.io/badge/Let's%20Connect-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanushree.nagarajan@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanushreen)
+
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.shion.dev/api?username=ThanuShree99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ThanuShree99&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ThanuShree99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
