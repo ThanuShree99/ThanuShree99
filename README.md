@@ -116,8 +116,8 @@ I'm a final-year Electronics and Communication Engineering student at **Velammal
   <tr>
     <td align="center" width="60">🏅</td>
     <td>
-      <b>Best Innovators – Winner</b><br/>
-      <sub>Hackathon 360° 3.0 · KPR Institute</sub>
+      <b>Winners</b><br/>
+      <sub>Hackathon 360° 3.0 · KPR Institute Of Engineering and Technology</sub>
     </td>
   </tr>
   <tr>
@@ -131,7 +131,7 @@ I'm a final-year Electronics and Communication Engineering student at **Velammal
     <td align="center">🥉</td>
     <td>
       <b>3rd Place</b><br/>
-      <sub>Shark Tank – Innovative Business Concept Pitch · MIT</sub>
+      <sub>Shark Tank – Innovative Business Concept Pitch · Madras Institute Of Technology</sub>
     </td>
   </tr>
   <tr>
@@ -145,7 +145,7 @@ I'm a final-year Electronics and Communication Engineering student at **Velammal
     <td align="center">🥉</td>
     <td>
       <b>3rd Place</b><br/>
-      <sub>Paper Presentation · St. Joseph's</sub>
+      <sub>Paper Presentation · St. Joseph's Engineering College</sub>
     </td>
   </tr>
   <tr>
