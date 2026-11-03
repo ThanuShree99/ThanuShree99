@@ -177,23 +177,15 @@ A responsive pharmacy information website.
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Stats:
 
-<div align="center">
+![](https://github-readme-stats.shion.dev/api?username=ThanuShree99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ThanuShree99&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ThanuShree99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ThanuShree99&show_icons=true&hide_border=true&bg_color=FFF7FC&title_color=8B5CF6&icon_color=EC4899&text_color=555555"/>
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=ThanuShree99&hide_border=true&background=FFF7FC&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=555555&currStreakNum=555555&sideNums=555555&dates=999999"/>
-
-<br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanuShree99&layout=compact&hide_border=true&bg_color=FFF7FC&title_color=8B5CF6&text_color=555555"/>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-
-<div align="center">
 
 ⭐ **If you find my projects helpful, don't forget to star them!**
 
